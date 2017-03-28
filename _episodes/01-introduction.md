@@ -3,9 +3,9 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question"
+- "My first objective is X"
 objectives:
-- "First objective."
+- "You will be able to do X."
 keypoints:
 - "First key point."
 ---
